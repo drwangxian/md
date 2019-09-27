@@ -38,5 +38,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 :+1:
 
 <p align="center">
-   # centered text
+   <h1>
+   centered    
+   </h1>
 </p>   
