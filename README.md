@@ -11,5 +11,5 @@ _This text is italicized_
 In the words of Abraham Lincoln:
 > Pardon my French
 
-Use 'git status' to list all new
+Use `git status` to list all new
 
