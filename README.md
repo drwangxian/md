@@ -13,3 +13,8 @@ In the words of Abraham Lincoln:
 
 Use `git status` to list all new
 
+```
+git status
+git  add
+git   commit
+```
