@@ -36,3 +36,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 2. Second list item
 
 :+1:
+
+<p align="center">
+   centered text
+</p>   
