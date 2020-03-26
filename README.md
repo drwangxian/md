@@ -1,44 +1,13 @@
-# The largest heading
-## The 2nd largest
-###### The smallest heading
+Environment Preparation
+=======================
 
-__This is bold text__
-_This text is italicized_
-~~This was mistaken text~~
-**This text is _extremely_ important**
-***Alls this text is important***
+-   Install Dependent Libraries
 
-In the words of Abraham Lincoln:
-> Pardon my French
+Download Datasets
+=================
 
-Use `git status` to list all new
+Generate Spectrograms
+=====================
 
-```
-git status
-git  add
-git   commit
-```
-
-This site was built using [GitHub Pages](https://pages.github.com/).
-
-- George Washington
-- John Adams
-- Thomas Jefferson
-
-1. George Washington
-2. John Adams
-3. Thomas Jefferson
-
-1. First list item
-   - 1st nested
-     - third level        
-   - 2nd nested
-2. Second list item
-
-:+1:
-
-<p align="center">
-   <h1>
-   centered    
-   </h1>
-</p>   
+Run Experiments
+===============
